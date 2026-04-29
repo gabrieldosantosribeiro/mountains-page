@@ -46,23 +46,6 @@ O foco foi criar uma interface visualmente agradável, explorando imagens, tipog
 
 ---
 
-## 📂 Estrutura do projeto
-
-```bash id="h5g2lp"
-mountains-page/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   └── banner.png
-│
-└── README.md
-```
-
----
-
 ## 📦 Como executar
 
 1. Clone o repositório:
